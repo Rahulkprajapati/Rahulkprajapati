@@ -13,6 +13,6 @@ Greetings! I'm an experienced DevOps Engineer, currently making waves at Airasia
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulkprajapati&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rahulkprajapati&icon=8&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Rahulkprajapati&label=Profile%20Views&color=10&icon=6&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
