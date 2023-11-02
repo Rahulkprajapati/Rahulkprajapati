@@ -1,7 +1,10 @@
 # 💫 Hi There:
 Greetings! I'm an experienced DevOps Engineer, currently making waves at Zeotap, with previous stints at Airasia, startups, and freelancing. As a Professional Cloud Architect Consultant, I bring a diverse skill set to the table.
+
 I also conduct research on various DevOps and cloud-native tools, writing blogs on Medium. I share my expertise and mentor aspiring cloud and DevOps enthusiasts at cloudclan.co, providing hands-on knowledge of Google Cloud Platform, security, system design, and various DevOps tools.
+
 My expertise spans a wide spectrum, from networking to AWS and GCP cloud platforms, Linux mastery, automation wizardry, CI/CD prowess, infrastructure management, Terraform finesse, and end-to-end product lifecycle.
+
 But what truly fuels my passion is automation. Witnessing the power of my scripts and codes in action, streamlining processes and driving efficiency, is nothing short of awe-inspiring. I thrive on automating everything possible, bringing automation magic to every aspect of my work.<br><br>Let's connect and explore how my skills and enthusiasm for automation can add value to your projects!
 
 
