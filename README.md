@@ -1,5 +1,5 @@
 # 💫 Hi There:
-Greetings! I'm an experienced DevOps Engineer, currently making waves at Zeotap, with previous stints at Airasia, startups, and freelancing. As a Professional Cloud Architect Consultant, I bring a diverse skill set to the table.
+Greetings! I'm an experienced DevOps Engineer, currently making waves at Alteryx, with previous stints at Zeotap and Airasia, startups, and freelancing. As a Professional Cloud Architect Consultant, I bring a diverse skill set to the table.
 
 I also conduct research on various DevOps and cloud-native tools, writing blogs on Medium. I share my expertise and mentor aspiring cloud and DevOps enthusiasts at cloudclan.co, providing hands-on knowledge of Google Cloud Platform, security, system design, and various DevOps tools.
 
