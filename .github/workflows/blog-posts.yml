@@ -1,0 +1,21 @@
+name: Latest blog posts
+
+# Refreshes the "Latest from the blog" list in README.md from the site's RSS feed.
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://rahul-prajapati.com/blog/feed.xml"
+          max_post_count: 5
+          commit_message: "Update latest blog posts"
