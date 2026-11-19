@@ -6,6 +6,7 @@
   <a href="https://linkedin.com/in/rahulkumarprajapati"><img src="https://img.shields.io/badge/LinkedIn-07090b?style=for-the-badge&logo=linkedin&logoColor=7cf5c6" alt="LinkedIn"></a>
   <a href="https://x.com/prajapatikrahul"><img src="https://img.shields.io/badge/X-07090b?style=for-the-badge&logo=x&logoColor=7cf5c6" alt="X"></a>
   <a href="https://medium.com/@rahulkprajapati"><img src="https://img.shields.io/badge/Medium-07090b?style=for-the-badge&logo=medium&logoColor=7cf5c6" alt="Medium"></a>
+  <a href="https://topmate.io/rahul_prajapati"><img src="https://img.shields.io/badge/Book_a_1%3A1-7cf5c6?style=for-the-badge&logo=googlecalendar&logoColor=07090b" alt="Book a 1:1 session on Topmate"></a>
 </p>
 
 ```console
@@ -79,5 +80,9 @@ searce           Cloud Engineer               2021   ✓ completed
 - **Searce:** modular Terraform for Google Cloud foundations and AWS → GCP migrations.
 
 </details>
+
+### 🤝 &nbsp;1:1 sessions
+
+Breaking into DevOps or cloud, prepping for a Google Cloud cert, practising for an SRE or platform interview, automating ops with AI agents and n8n, or want a second pair of eyes on your startup's infra? **[Book a session on Topmate →](https://topmate.io/rahul_prajapati)**
 
 <p align="center"><sub>Find the full story at <a href="https://rahul-prajapati.com">rahul-prajapati.com</a>.</sub></p>
